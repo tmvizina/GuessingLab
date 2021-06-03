@@ -1,0 +1,13 @@
+C:\Users\tmviz\source\repos\GuesserLab2\GuesserLab2\bin\Debug\netcoreapp3.1\GuesserLab2.exe
+C:\Users\tmviz\source\repos\GuesserLab2\GuesserLab2\bin\Debug\netcoreapp3.1\GuesserLab2.deps.json
+C:\Users\tmviz\source\repos\GuesserLab2\GuesserLab2\bin\Debug\netcoreapp3.1\GuesserLab2.runtimeconfig.json
+C:\Users\tmviz\source\repos\GuesserLab2\GuesserLab2\bin\Debug\netcoreapp3.1\GuesserLab2.runtimeconfig.dev.json
+C:\Users\tmviz\source\repos\GuesserLab2\GuesserLab2\bin\Debug\netcoreapp3.1\GuesserLab2.dll
+C:\Users\tmviz\source\repos\GuesserLab2\GuesserLab2\bin\Debug\netcoreapp3.1\GuesserLab2.pdb
+C:\Users\tmviz\source\repos\GuesserLab2\GuesserLab2\obj\Debug\netcoreapp3.1\GuesserLab2.AssemblyInfoInputs.cache
+C:\Users\tmviz\source\repos\GuesserLab2\GuesserLab2\obj\Debug\netcoreapp3.1\GuesserLab2.AssemblyInfo.cs
+C:\Users\tmviz\source\repos\GuesserLab2\GuesserLab2\obj\Debug\netcoreapp3.1\GuesserLab2.csproj.CoreCompileInputs.cache
+C:\Users\tmviz\source\repos\GuesserLab2\GuesserLab2\obj\Debug\netcoreapp3.1\GuesserLab2.dll
+C:\Users\tmviz\source\repos\GuesserLab2\GuesserLab2\obj\Debug\netcoreapp3.1\GuesserLab2.pdb
+C:\Users\tmviz\source\repos\GuesserLab2\GuesserLab2\obj\Debug\netcoreapp3.1\GuesserLab2.genruntimeconfig.cache
+C:\Users\tmviz\source\repos\GuesserLab2\GuesserLab2\obj\Debug\netcoreapp3.1\GuesserLab2.csprojAssemblyReference.cache
